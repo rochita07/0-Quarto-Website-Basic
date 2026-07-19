@@ -1,5 +1,7 @@
 project:
   type: website
+  output-dir: docs
+  
 
 website:
   title: "0-Quarto-Website-Basic"
